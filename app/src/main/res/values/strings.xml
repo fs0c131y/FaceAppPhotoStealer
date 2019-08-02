@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceApp Photo Stealer</string>
+    <string name="read_storage_rationale">Be cool, give me the permission</string>
+</resources>
